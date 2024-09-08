@@ -27,7 +27,7 @@ We aim to empower farmers with timely insights to safeguard crops and boost yiel
 
 ## CONTRIBUTORS
 
-- https://github.com/Subhankar-Bose2005
+- https://github.com/tanayburnwal
 - https://github.com/AadityaTiwary1
 - https://github.com/Arush1505
 - https://github.com/Mahisoanl
